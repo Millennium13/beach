@@ -1,0 +1,12 @@
+body{
+    background-image: url(./Photo/Rasm7.jpg);
+}
+
+img:hover{
+    border: 1px solid blue;
+}
+
+.picture{
+    display: flex;
+    justify-content: space-around;
+}
